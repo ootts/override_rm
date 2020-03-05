@@ -56,5 +56,5 @@
 ### Notes
 
 1. This script add suffix for identical file names, for example, do 'rm 1.txt' twice will generates '1.txt' and '1.txt.1' in trashbin. Differ them by viewing delete log '~/TrashBin/.rm-log.txt'
-2. This script **does not** empty your trashbin automatically, so you need to do clear your trashbin mannually by 'rmf'.
+2. This script **does not** empty your trashbin automatically, so you need to clear your trashbin manually by 'rmf'.
 
